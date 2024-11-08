@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RSRAviation/static/css/main.7dd848cc.css",
-    "main.js": "/RSRAviation/static/js/main.385aadff.js",
+    "main.css": "/RSRAviation/static/css/main.2854d5f7.css",
+    "main.js": "/RSRAviation/static/js/main.b3caa2d7.js",
     "static/media/Startup.png": "/RSRAviation/static/media/Startup.07d6ec30fd799dc41cd5.png",
     "static/media/About.mp4": "/RSRAviation/static/media/About.e38eec5c0eb6acb6e510.mp4",
     "static/media/3chem.png": "/RSRAviation/static/media/3chem.21b33e6b41fa7d5e0d3d.png",
@@ -123,11 +123,11 @@
     "static/media/63.jpg": "/RSRAviation/static/media/63.63de6a6e007c97b2171b.jpg",
     "static/media/62.jpg": "/RSRAviation/static/media/62.6fedbb95285769f53d4f.jpg",
     "index.html": "/RSRAviation/index.html",
-    "main.7dd848cc.css.map": "/RSRAviation/static/css/main.7dd848cc.css.map",
-    "main.385aadff.js.map": "/RSRAviation/static/js/main.385aadff.js.map"
+    "main.2854d5f7.css.map": "/RSRAviation/static/css/main.2854d5f7.css.map",
+    "main.b3caa2d7.js.map": "/RSRAviation/static/js/main.b3caa2d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd848cc.css",
-    "static/js/main.385aadff.js"
+    "static/css/main.2854d5f7.css",
+    "static/js/main.b3caa2d7.js"
   ]
 }
